@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+}
+
+.custom{
+    padding: 8%;
+    background: url(./t.jpg.jpg) center;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    border: 3px solid steelblue;
+}
